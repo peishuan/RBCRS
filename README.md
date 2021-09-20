@@ -1,4 +1,4 @@
-# movie-dialogue-dev
+# Review-based conversational recommendation system 
 
 This repository contains the code for "Towards a Conversational Recommendation System with Item Representation Learning from Reviews"
 
